@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "/home/student1/djmohame/Desktop/coe758/project2/pong/game_engine.xst" -ofn "/home/student1/djmohame/Desktop/coe758/project2/pong/game_engine.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc constraints.ucf -p xc3s500e-fg320-5 game_engine.ngc game_engine.ngd  

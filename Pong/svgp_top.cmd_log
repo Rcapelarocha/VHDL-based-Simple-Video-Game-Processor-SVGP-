@@ -1,0 +1,446 @@
+xst -intstyle ise -ifn "/home/student1/djmohame/Desktop/coe758/project2/pong/svgp_top.xst" -ofn "/home/student1/djmohame/Desktop/coe758/project2/pong/svgp_top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc constraints.ucf -p xc3s500e-fg320-5 svgp_top.ngc svgp_top.ngd  
+xst -intstyle ise -ifn "/home/student1/djmohame/Desktop/coe758/project2/pong/svgp_top.xst" -ofn "/home/student1/djmohame/Desktop/coe758/project2/pong/svgp_top.syr" 
+xst -intstyle ise -ifn "/home/student1/djmohame/Desktop/coe758/project2/pong/svgp_top.xst" -ofn "/home/student1/djmohame/Desktop/coe758/project2/pong/svgp_top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc constraints.ucf -p xc3s500e-fg320-5 svgp_top.ngc svgp_top.ngd  
+xst -intstyle ise -ifn "/home/student1/djmohame/Desktop/coe758/project2/pong/svgp_top.xst" -ofn "/home/student1/djmohame/Desktop/coe758/project2/pong/svgp_top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc constraints.ucf -p xc3s500e-fg320-5 svgp_top.ngc svgp_top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o svgp_top_map.ncd svgp_top.ngd svgp_top.pcf 
+par -w -intstyle ise -ol high -t 1 svgp_top_map.ncd svgp_top.ncd svgp_top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml svgp_top.twx svgp_top.ncd -o svgp_top.twr svgp_top.pcf -ucf constraints.ucf 
+xst -intstyle ise -ifn "/home/student1/djmohame/Desktop/coe758/project2/pong/svgp_top.xst" -ofn "/home/student1/djmohame/Desktop/coe758/project2/pong/svgp_top.syr" 
+xst -intstyle ise -ifn "/home/student1/djmohame/Desktop/coe758/project2/pong/svgp_top.xst" -ofn "/home/student1/djmohame/Desktop/coe758/project2/pong/svgp_top.syr" 
+xst -intstyle ise -ifn "/home/student1/djmohame/Desktop/coe758/project2/pong/svgp_top.xst" -ofn "/home/student1/djmohame/Desktop/coe758/project2/pong/svgp_top.syr" 
+xst -intstyle ise -ifn "/home/student1/djmohame/Desktop/coe758/project2/pong/svgp_top.xst" -ofn "/home/student1/djmohame/Desktop/coe758/project2/pong/svgp_top.syr" 
+xst -intstyle ise -ifn "/home/student1/djmohame/Desktop/coe758/project2/pong/svgp_top.xst" -ofn "/home/student1/djmohame/Desktop/coe758/project2/pong/svgp_top.syr" 
+xst -intstyle ise -ifn "/home/student1/djmohame/Desktop/coe758/project2/pong/svgp_top.xst" -ofn "/home/student1/djmohame/Desktop/coe758/project2/pong/svgp_top.syr" 
+xst -intstyle ise -ifn "/home/student1/djmohame/Desktop/coe758/project2/pong/svgp_top.xst" -ofn "/home/student1/djmohame/Desktop/coe758/project2/pong/svgp_top.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc constraints.ucf -p xc3s500e-fg320-5 svgp_top.ngc svgp_top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o svgp_top_map.ncd svgp_top.ngd svgp_top.pcf 
+par -w -intstyle ise -ol high -t 1 svgp_top_map.ncd svgp_top.ncd svgp_top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml svgp_top.twx svgp_top.ncd -o svgp_top.twr svgp_top.pcf -ucf constraints.ucf 
+xst -intstyle ise -ifn "/home/student1/djmohame/Desktop/coe758/project2/pong/svgp_top.xst" -ofn "/home/student1/djmohame/Desktop/coe758/project2/pong/svgp_top.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc constraints.ucf -p xc3s500e-fg320-5 svgp_top.ngc svgp_top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o svgp_top_map.ncd svgp_top.ngd svgp_top.pcf 
+par -w -intstyle ise -ol high -t 1 svgp_top_map.ncd svgp_top.ncd svgp_top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml svgp_top.twx svgp_top.ncd -o svgp_top.twr svgp_top.pcf -ucf constraints.ucf 
+xst -intstyle ise -ifn "/home/student1/djmohame/Desktop/coe758/project2/pong/svgp_top.xst" -ofn "/home/student1/djmohame/Desktop/coe758/project2/pong/svgp_top.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc constraints.ucf -p xc3s500e-fg320-5 svgp_top.ngc svgp_top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o svgp_top_map.ncd svgp_top.ngd svgp_top.pcf 
+par -w -intstyle ise -ol high -t 1 svgp_top_map.ncd svgp_top.ncd svgp_top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml svgp_top.twx svgp_top.ncd -o svgp_top.twr svgp_top.pcf -ucf constraints.ucf 
+bitgen -intstyle ise -f svgp_top.ut svgp_top.ncd 
+xst -intstyle ise -ifn "/home/student1/djmohame/Desktop/coe758/project2/pong/svgp_top.xst" -ofn "/home/student1/djmohame/Desktop/coe758/project2/pong/svgp_top.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc constraints.ucf -p xc3s500e-fg320-5 svgp_top.ngc svgp_top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o svgp_top_map.ncd svgp_top.ngd svgp_top.pcf 
+par -w -intstyle ise -ol high -t 1 svgp_top_map.ncd svgp_top.ncd svgp_top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml svgp_top.twx svgp_top.ncd -o svgp_top.twr svgp_top.pcf -ucf constraints.ucf 
+bitgen -intstyle ise -f svgp_top.ut svgp_top.ncd 
+xst -intstyle ise -ifn "/home/student1/djmohame/Desktop/coe758/project2/pong/svgp_top.xst" -ofn "/home/student1/djmohame/Desktop/coe758/project2/pong/svgp_top.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc constraints.ucf -p xc3s500e-fg320-5 svgp_top.ngc svgp_top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o svgp_top_map.ncd svgp_top.ngd svgp_top.pcf 
+par -w -intstyle ise -ol high -t 1 svgp_top_map.ncd svgp_top.ncd svgp_top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml svgp_top.twx svgp_top.ncd -o svgp_top.twr svgp_top.pcf -ucf constraints.ucf 
+bitgen -intstyle ise -f svgp_top.ut svgp_top.ncd 
+xst -intstyle ise -ifn "/home/student1/djmohame/Desktop/coe758/project2/pong/svgp_top.xst" -ofn "/home/student1/djmohame/Desktop/coe758/project2/pong/svgp_top.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc constraints.ucf -p xc3s500e-fg320-5 svgp_top.ngc svgp_top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o svgp_top_map.ncd svgp_top.ngd svgp_top.pcf 
+par -w -intstyle ise -ol high -t 1 svgp_top_map.ncd svgp_top.ncd svgp_top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml svgp_top.twx svgp_top.ncd -o svgp_top.twr svgp_top.pcf -ucf constraints.ucf 
+bitgen -intstyle ise -f svgp_top.ut svgp_top.ncd 
+xst -intstyle ise -ifn "/home/student1/djmohame/Desktop/coe758/project2/pong/svgp_top.xst" -ofn "/home/student1/djmohame/Desktop/coe758/project2/pong/svgp_top.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc constraints.ucf -p xc3s500e-fg320-5 svgp_top.ngc svgp_top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o svgp_top_map.ncd svgp_top.ngd svgp_top.pcf 
+par -w -intstyle ise -ol high -t 1 svgp_top_map.ncd svgp_top.ncd svgp_top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml svgp_top.twx svgp_top.ncd -o svgp_top.twr svgp_top.pcf -ucf constraints.ucf 
+bitgen -intstyle ise -f svgp_top.ut svgp_top.ncd 
+xst -intstyle ise -ifn "/home/student1/djmohame/Desktop/coe758/project2/pong/svgp_top.xst" -ofn "/home/student1/djmohame/Desktop/coe758/project2/pong/svgp_top.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc constraints.ucf -p xc3s500e-fg320-5 svgp_top.ngc svgp_top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o svgp_top_map.ncd svgp_top.ngd svgp_top.pcf 
+par -w -intstyle ise -ol high -t 1 svgp_top_map.ncd svgp_top.ncd svgp_top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml svgp_top.twx svgp_top.ncd -o svgp_top.twr svgp_top.pcf -ucf constraints.ucf 
+bitgen -intstyle ise -f svgp_top.ut svgp_top.ncd 
+xst -intstyle ise -ifn "/home/student1/djmohame/Desktop/coe758/project2/pong/svgp_top.xst" -ofn "/home/student1/djmohame/Desktop/coe758/project2/pong/svgp_top.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc constraints.ucf -p xc3s500e-fg320-5 svgp_top.ngc svgp_top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o svgp_top_map.ncd svgp_top.ngd svgp_top.pcf 
+par -w -intstyle ise -ol high -t 1 svgp_top_map.ncd svgp_top.ncd svgp_top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml svgp_top.twx svgp_top.ncd -o svgp_top.twr svgp_top.pcf -ucf constraints.ucf 
+bitgen -intstyle ise -f svgp_top.ut svgp_top.ncd 
+xst -intstyle ise -ifn "/home/student1/djmohame/Desktop/coe758/project2/pong/svgp_top.xst" -ofn "/home/student1/djmohame/Desktop/coe758/project2/pong/svgp_top.syr" 
+xst -intstyle ise -ifn "/home/student1/djmohame/Desktop/coe758/project2/pong/svgp_top.xst" -ofn "/home/student1/djmohame/Desktop/coe758/project2/pong/svgp_top.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc constraints.ucf -p xc3s500e-fg320-5 svgp_top.ngc svgp_top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o svgp_top_map.ncd svgp_top.ngd svgp_top.pcf 
+par -w -intstyle ise -ol high -t 1 svgp_top_map.ncd svgp_top.ncd svgp_top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml svgp_top.twx svgp_top.ncd -o svgp_top.twr svgp_top.pcf -ucf constraints.ucf 
+bitgen -intstyle ise -f svgp_top.ut svgp_top.ncd 
+xst -intstyle ise -ifn "/home/student1/djmohame/Desktop/coe758/project2/pong/svgp_top.xst" -ofn "/home/student1/djmohame/Desktop/coe758/project2/pong/svgp_top.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc constraints.ucf -p xc3s500e-fg320-5 svgp_top.ngc svgp_top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o svgp_top_map.ncd svgp_top.ngd svgp_top.pcf 
+par -w -intstyle ise -ol high -t 1 svgp_top_map.ncd svgp_top.ncd svgp_top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml svgp_top.twx svgp_top.ncd -o svgp_top.twr svgp_top.pcf -ucf constraints.ucf 
+bitgen -intstyle ise -f svgp_top.ut svgp_top.ncd 
+xst -intstyle ise -ifn "/home/student1/djmohame/Desktop/coe758/project2/pong/svgp_top.xst" -ofn "/home/student1/djmohame/Desktop/coe758/project2/pong/svgp_top.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc constraints.ucf -p xc3s500e-fg320-5 svgp_top.ngc svgp_top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o svgp_top_map.ncd svgp_top.ngd svgp_top.pcf 
+par -w -intstyle ise -ol high -t 1 svgp_top_map.ncd svgp_top.ncd svgp_top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml svgp_top.twx svgp_top.ncd -o svgp_top.twr svgp_top.pcf -ucf constraints.ucf 
+bitgen -intstyle ise -f svgp_top.ut svgp_top.ncd 
+xst -intstyle ise -ifn "/home/student1/djmohame/Desktop/coe758/project2/pong/svgp_top.xst" -ofn "/home/student1/djmohame/Desktop/coe758/project2/pong/svgp_top.syr" 
+xst -intstyle ise -ifn "/home/student1/djmohame/Desktop/coe758/project2/pong/svgp_top.xst" -ofn "/home/student1/djmohame/Desktop/coe758/project2/pong/svgp_top.syr" 
+xst -intstyle ise -ifn "/home/student1/djmohame/Desktop/coe758/project2/pong/svgp_top.xst" -ofn "/home/student1/djmohame/Desktop/coe758/project2/pong/svgp_top.syr" 
+xst -intstyle ise -ifn "/home/student1/djmohame/Desktop/coe758/project2/pong/svgp_top.xst" -ofn "/home/student1/djmohame/Desktop/coe758/project2/pong/svgp_top.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc constraints.ucf -p xc3s500e-fg320-5 svgp_top.ngc svgp_top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o svgp_top_map.ncd svgp_top.ngd svgp_top.pcf 
+par -w -intstyle ise -ol high -t 1 svgp_top_map.ncd svgp_top.ncd svgp_top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml svgp_top.twx svgp_top.ncd -o svgp_top.twr svgp_top.pcf -ucf constraints.ucf 
+bitgen -intstyle ise -f svgp_top.ut svgp_top.ncd 
+xst -intstyle ise -ifn "/home/student1/djmohame/Desktop/coe758/project2/pong/svgp_top.xst" -ofn "/home/student1/djmohame/Desktop/coe758/project2/pong/svgp_top.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc constraints.ucf -p xc3s500e-fg320-5 svgp_top.ngc svgp_top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o svgp_top_map.ncd svgp_top.ngd svgp_top.pcf 
+par -w -intstyle ise -ol high -t 1 svgp_top_map.ncd svgp_top.ncd svgp_top.pcf 
+bitgen -intstyle ise -f svgp_top.ut svgp_top.ncd 
+xst -intstyle ise -ifn "/home/student1/djmohame/Desktop/coe758/project2/pong/svgp_top.xst" -ofn "/home/student1/djmohame/Desktop/coe758/project2/pong/svgp_top.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc constraints.ucf -p xc3s500e-fg320-5 svgp_top.ngc svgp_top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o svgp_top_map.ncd svgp_top.ngd svgp_top.pcf 
+par -w -intstyle ise -ol high -t 1 svgp_top_map.ncd svgp_top.ncd svgp_top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml svgp_top.twx svgp_top.ncd -o svgp_top.twr svgp_top.pcf -ucf constraints.ucf 
+bitgen -intstyle ise -f svgp_top.ut svgp_top.ncd 
+xst -intstyle ise -ifn "/home/student1/djmohame/Desktop/coe758/project2/pong/svgp_top.xst" -ofn "/home/student1/djmohame/Desktop/coe758/project2/pong/svgp_top.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc constraints.ucf -p xc3s500e-fg320-5 svgp_top.ngc svgp_top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o svgp_top_map.ncd svgp_top.ngd svgp_top.pcf 
+par -w -intstyle ise -ol high -t 1 svgp_top_map.ncd svgp_top.ncd svgp_top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml svgp_top.twx svgp_top.ncd -o svgp_top.twr svgp_top.pcf -ucf constraints.ucf 
+bitgen -intstyle ise -f svgp_top.ut svgp_top.ncd 
+xst -intstyle ise -ifn "/home/student1/djmohame/Desktop/coe758/project2/pong/svgp_top.xst" -ofn "/home/student1/djmohame/Desktop/coe758/project2/pong/svgp_top.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc constraints.ucf -p xc3s500e-fg320-5 svgp_top.ngc svgp_top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o svgp_top_map.ncd svgp_top.ngd svgp_top.pcf 
+par -w -intstyle ise -ol high -t 1 svgp_top_map.ncd svgp_top.ncd svgp_top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml svgp_top.twx svgp_top.ncd -o svgp_top.twr svgp_top.pcf -ucf constraints.ucf 
+bitgen -intstyle ise -f svgp_top.ut svgp_top.ncd 
+xst -intstyle ise -ifn "/home/student1/djmohame/Desktop/coe758/project2/pong/svgp_top.xst" -ofn "/home/student1/djmohame/Desktop/coe758/project2/pong/svgp_top.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc constraints.ucf -p xc3s500e-fg320-5 svgp_top.ngc svgp_top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o svgp_top_map.ncd svgp_top.ngd svgp_top.pcf 
+par -w -intstyle ise -ol high -t 1 svgp_top_map.ncd svgp_top.ncd svgp_top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml svgp_top.twx svgp_top.ncd -o svgp_top.twr svgp_top.pcf -ucf constraints.ucf 
+bitgen -intstyle ise -f svgp_top.ut svgp_top.ncd 
+xst -intstyle ise -ifn "/home/student1/djmohame/Desktop/coe758/project2/pong/svgp_top.xst" -ofn "/home/student1/djmohame/Desktop/coe758/project2/pong/svgp_top.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc constraints.ucf -p xc3s500e-fg320-5 svgp_top.ngc svgp_top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o svgp_top_map.ncd svgp_top.ngd svgp_top.pcf 
+par -w -intstyle ise -ol high -t 1 svgp_top_map.ncd svgp_top.ncd svgp_top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml svgp_top.twx svgp_top.ncd -o svgp_top.twr svgp_top.pcf -ucf constraints.ucf 
+bitgen -intstyle ise -f svgp_top.ut svgp_top.ncd 
+xst -intstyle ise -ifn "/home/student1/djmohame/Desktop/coe758/project2_paddles/pong/svgp_top.xst" -ofn "/home/student1/djmohame/Desktop/coe758/project2_paddles/pong/svgp_top.syr" 
+xst -intstyle ise -ifn "/home/student1/djmohame/Desktop/coe758/project2_paddles/pong/svgp_top.xst" -ofn "/home/student1/djmohame/Desktop/coe758/project2_paddles/pong/svgp_top.syr" 
+xst -intstyle ise -ifn "/home/student1/djmohame/Desktop/coe758/project2_paddles/pong/svgp_top.xst" -ofn "/home/student1/djmohame/Desktop/coe758/project2_paddles/pong/svgp_top.syr" 
+xst -intstyle ise -ifn "/home/student1/djmohame/Desktop/coe758/project2_paddles/pong/svgp_top.xst" -ofn "/home/student1/djmohame/Desktop/coe758/project2_paddles/pong/svgp_top.syr" 
+xst -intstyle ise -ifn "/home/student1/djmohame/Desktop/coe758/project2_paddles/pong/svgp_top.xst" -ofn "/home/student1/djmohame/Desktop/coe758/project2_paddles/pong/svgp_top.syr" 
+xst -intstyle ise -ifn "/home/student1/djmohame/Desktop/coe758/project2_paddles/pong/svgp_top.xst" -ofn "/home/student1/djmohame/Desktop/coe758/project2_paddles/pong/svgp_top.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc constraints.ucf -p xc3s500e-fg320-5 svgp_top.ngc svgp_top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o svgp_top_map.ncd svgp_top.ngd svgp_top.pcf 
+par -w -intstyle ise -ol high -t 1 svgp_top_map.ncd svgp_top.ncd svgp_top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml svgp_top.twx svgp_top.ncd -o svgp_top.twr svgp_top.pcf -ucf constraints.ucf 
+bitgen -intstyle ise -f svgp_top.ut svgp_top.ncd 
+xst -intstyle ise -ifn "/home/student1/djmohame/Desktop/coe758/project2_paddles/pong/svgp_top.xst" -ofn "/home/student1/djmohame/Desktop/coe758/project2_paddles/pong/svgp_top.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc constraints.ucf -p xc3s500e-fg320-5 svgp_top.ngc svgp_top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o svgp_top_map.ncd svgp_top.ngd svgp_top.pcf 
+par -w -intstyle ise -ol high -t 1 svgp_top_map.ncd svgp_top.ncd svgp_top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml svgp_top.twx svgp_top.ncd -o svgp_top.twr svgp_top.pcf -ucf constraints.ucf 
+bitgen -intstyle ise -f svgp_top.ut svgp_top.ncd 
+xst -intstyle ise -ifn "/home/student1/djmohame/Desktop/coe758/project2_paddles/pong/svgp_top.xst" -ofn "/home/student1/djmohame/Desktop/coe758/project2_paddles/pong/svgp_top.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc constraints.ucf -p xc3s500e-fg320-5 svgp_top.ngc svgp_top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o svgp_top_map.ncd svgp_top.ngd svgp_top.pcf 
+par -w -intstyle ise -ol high -t 1 svgp_top_map.ncd svgp_top.ncd svgp_top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml svgp_top.twx svgp_top.ncd -o svgp_top.twr svgp_top.pcf -ucf constraints.ucf 
+bitgen -intstyle ise -f svgp_top.ut svgp_top.ncd 
+xst -intstyle ise -ifn "/home/student1/djmohame/Desktop/coe758/project2_paddles/pong/svgp_top.xst" -ofn "/home/student1/djmohame/Desktop/coe758/project2_paddles/pong/svgp_top.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc constraints.ucf -p xc3s500e-fg320-5 svgp_top.ngc svgp_top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o svgp_top_map.ncd svgp_top.ngd svgp_top.pcf 
+par -w -intstyle ise -ol high -t 1 svgp_top_map.ncd svgp_top.ncd svgp_top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml svgp_top.twx svgp_top.ncd -o svgp_top.twr svgp_top.pcf -ucf constraints.ucf 
+bitgen -intstyle ise -f svgp_top.ut svgp_top.ncd 
+xst -intstyle ise -ifn "/home/student1/djmohame/Desktop/coe758/project2_paddles/pong/svgp_top.xst" -ofn "/home/student1/djmohame/Desktop/coe758/project2_paddles/pong/svgp_top.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc constraints.ucf -p xc3s500e-fg320-5 svgp_top.ngc svgp_top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o svgp_top_map.ncd svgp_top.ngd svgp_top.pcf 
+par -w -intstyle ise -ol high -t 1 svgp_top_map.ncd svgp_top.ncd svgp_top.pcf 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc constraints.ucf -p xc3s500e-fg320-5 svgp_top.ngc svgp_top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o svgp_top_map.ncd svgp_top.ngd svgp_top.pcf 
+bitgen -intstyle ise -f svgp_top.ut svgp_top.ncd 
+par -w -intstyle ise -ol high -t 1 svgp_top_map.ncd svgp_top.ncd svgp_top.pcf 
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o svgp_top_map.ncd svgp_top.ngd svgp_top.pcf 
+par -w -intstyle ise -ol high -t 1 svgp_top_map.ncd svgp_top.ncd svgp_top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml svgp_top.twx svgp_top.ncd -o svgp_top.twr svgp_top.pcf -ucf constraints.ucf 
+bitgen -intstyle ise -f svgp_top.ut svgp_top.ncd 
+xst -intstyle ise -ifn "/home/student1/djmohame/Desktop/coe758/project2_paddles/pong/svgp_top.xst" -ofn "/home/student1/djmohame/Desktop/coe758/project2_paddles/pong/svgp_top.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc constraints.ucf -p xc3s500e-fg320-5 svgp_top.ngc svgp_top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o svgp_top_map.ncd svgp_top.ngd svgp_top.pcf 
+par -w -intstyle ise -ol high -t 1 svgp_top_map.ncd svgp_top.ncd svgp_top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml svgp_top.twx svgp_top.ncd -o svgp_top.twr svgp_top.pcf -ucf constraints.ucf 
+bitgen -intstyle ise -f svgp_top.ut svgp_top.ncd 
+xst -intstyle ise -ifn "/home/student1/djmohame/Desktop/coe758/project2_paddles/pong/svgp_top.xst" -ofn "/home/student1/djmohame/Desktop/coe758/project2_paddles/pong/svgp_top.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc constraints.ucf -p xc3s500e-fg320-5 svgp_top.ngc svgp_top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o svgp_top_map.ncd svgp_top.ngd svgp_top.pcf 
+par -w -intstyle ise -ol high -t 1 svgp_top_map.ncd svgp_top.ncd svgp_top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml svgp_top.twx svgp_top.ncd -o svgp_top.twr svgp_top.pcf -ucf constraints.ucf 
+bitgen -intstyle ise -f svgp_top.ut svgp_top.ncd 
+xst -intstyle ise -ifn "/home/student1/djmohame/Desktop/coe758/project2_paddles/pong/svgp_top.xst" -ofn "/home/student1/djmohame/Desktop/coe758/project2_paddles/pong/svgp_top.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc constraints.ucf -p xc3s500e-fg320-5 svgp_top.ngc svgp_top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o svgp_top_map.ncd svgp_top.ngd svgp_top.pcf 
+par -w -intstyle ise -ol high -t 1 svgp_top_map.ncd svgp_top.ncd svgp_top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml svgp_top.twx svgp_top.ncd -o svgp_top.twr svgp_top.pcf -ucf constraints.ucf 
+bitgen -intstyle ise -f svgp_top.ut svgp_top.ncd 
+xst -intstyle ise -ifn "/home/student1/djmohame/Desktop/coe758/project2_paddles/pong/svgp_top.xst" -ofn "/home/student1/djmohame/Desktop/coe758/project2_paddles/pong/svgp_top.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc constraints.ucf -p xc3s500e-fg320-5 svgp_top.ngc svgp_top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o svgp_top_map.ncd svgp_top.ngd svgp_top.pcf 
+par -w -intstyle ise -ol high -t 1 svgp_top_map.ncd svgp_top.ncd svgp_top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml svgp_top.twx svgp_top.ncd -o svgp_top.twr svgp_top.pcf -ucf constraints.ucf 
+par -w -intstyle ise -ol high -t 1 svgp_top_map.ncd svgp_top.ncd svgp_top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml svgp_top.twx svgp_top.ncd -o svgp_top.twr svgp_top.pcf -ucf constraints.ucf 
+bitgen -intstyle ise -f svgp_top.ut svgp_top.ncd 
+xst -intstyle ise -ifn "/home/student1/djmohame/Desktop/coe758/project2_paddles/pong/svgp_top.xst" -ofn "/home/student1/djmohame/Desktop/coe758/project2_paddles/pong/svgp_top.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc constraints.ucf -p xc3s500e-fg320-5 svgp_top.ngc svgp_top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o svgp_top_map.ncd svgp_top.ngd svgp_top.pcf 
+par -w -intstyle ise -ol high -t 1 svgp_top_map.ncd svgp_top.ncd svgp_top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml svgp_top.twx svgp_top.ncd -o svgp_top.twr svgp_top.pcf -ucf constraints.ucf 
+bitgen -intstyle ise -f svgp_top.ut svgp_top.ncd 
+xst -intstyle ise -ifn "/home/student1/djmohame/Desktop/coe758/project2_paddles/pong/svgp_top.xst" -ofn "/home/student1/djmohame/Desktop/coe758/project2_paddles/pong/svgp_top.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc constraints.ucf -p xc3s500e-fg320-5 svgp_top.ngc svgp_top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o svgp_top_map.ncd svgp_top.ngd svgp_top.pcf 
+par -w -intstyle ise -ol high -t 1 svgp_top_map.ncd svgp_top.ncd svgp_top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml svgp_top.twx svgp_top.ncd -o svgp_top.twr svgp_top.pcf -ucf constraints.ucf 
+bitgen -intstyle ise -f svgp_top.ut svgp_top.ncd 
+xst -intstyle ise -ifn "/home/student1/djmohame/Desktop/coe758/project2_paddles/pong/svgp_top.xst" -ofn "/home/student1/djmohame/Desktop/coe758/project2_paddles/pong/svgp_top.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc constraints.ucf -p xc3s500e-fg320-5 svgp_top.ngc svgp_top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o svgp_top_map.ncd svgp_top.ngd svgp_top.pcf 
+par -w -intstyle ise -ol high -t 1 svgp_top_map.ncd svgp_top.ncd svgp_top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml svgp_top.twx svgp_top.ncd -o svgp_top.twr svgp_top.pcf -ucf constraints.ucf 
+bitgen -intstyle ise -f svgp_top.ut svgp_top.ncd 
+xst -intstyle ise -ifn "/home/student1/djmohame/Desktop/coe758/project2_paddles/pong/svgp_top.xst" -ofn "/home/student1/djmohame/Desktop/coe758/project2_paddles/pong/svgp_top.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc constraints.ucf -p xc3s500e-fg320-5 svgp_top.ngc svgp_top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o svgp_top_map.ncd svgp_top.ngd svgp_top.pcf 
+par -w -intstyle ise -ol high -t 1 svgp_top_map.ncd svgp_top.ncd svgp_top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml svgp_top.twx svgp_top.ncd -o svgp_top.twr svgp_top.pcf -ucf constraints.ucf 
+bitgen -intstyle ise -f svgp_top.ut svgp_top.ncd 
+xst -intstyle ise -ifn "/home/student1/djmohame/Desktop/coe758/project2_paddles_ball/pong/svgp_top.xst" -ofn "/home/student1/djmohame/Desktop/coe758/project2_paddles_ball/pong/svgp_top.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc constraints.ucf -p xc3s500e-fg320-5 svgp_top.ngc svgp_top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o svgp_top_map.ncd svgp_top.ngd svgp_top.pcf 
+par -w -intstyle ise -ol high -t 1 svgp_top_map.ncd svgp_top.ncd svgp_top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml svgp_top.twx svgp_top.ncd -o svgp_top.twr svgp_top.pcf -ucf constraints.ucf 
+bitgen -intstyle ise -f svgp_top.ut svgp_top.ncd 
+xst -intstyle ise -ifn "/home/student1/djmohame/Desktop/coe758/project2_paddles_ball/pong/svgp_top.xst" -ofn "/home/student1/djmohame/Desktop/coe758/project2_paddles_ball/pong/svgp_top.syr" 
+xst -intstyle ise -ifn "/home/student1/djmohame/Desktop/coe758/project2_paddles_ball/pong/svgp_top.xst" -ofn "/home/student1/djmohame/Desktop/coe758/project2_paddles_ball/pong/svgp_top.syr" 
+xst -intstyle ise -ifn "/home/student1/djmohame/Desktop/coe758/project2_paddles_ball/pong/svgp_top.xst" -ofn "/home/student1/djmohame/Desktop/coe758/project2_paddles_ball/pong/svgp_top.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc constraints.ucf -p xc3s500e-fg320-5 svgp_top.ngc svgp_top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o svgp_top_map.ncd svgp_top.ngd svgp_top.pcf 
+par -w -intstyle ise -ol high -t 1 svgp_top_map.ncd svgp_top.ncd svgp_top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml svgp_top.twx svgp_top.ncd -o svgp_top.twr svgp_top.pcf -ucf constraints.ucf 
+bitgen -intstyle ise -f svgp_top.ut svgp_top.ncd 
+xst -intstyle ise -ifn "/home/student1/djmohame/Desktop/coe758/project2_paddles_ball/pong/svgp_top.xst" -ofn "/home/student1/djmohame/Desktop/coe758/project2_paddles_ball/pong/svgp_top.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc constraints.ucf -p xc3s500e-fg320-5 svgp_top.ngc svgp_top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o svgp_top_map.ncd svgp_top.ngd svgp_top.pcf 
+par -w -intstyle ise -ol high -t 1 svgp_top_map.ncd svgp_top.ncd svgp_top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml svgp_top.twx svgp_top.ncd -o svgp_top.twr svgp_top.pcf -ucf constraints.ucf 
+bitgen -intstyle ise -f svgp_top.ut svgp_top.ncd 
+xst -intstyle ise -ifn "/home/student1/djmohame/Desktop/coe758/project2_paddles_ball/pong/svgp_top.xst" -ofn "/home/student1/djmohame/Desktop/coe758/project2_paddles_ball/pong/svgp_top.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc constraints.ucf -p xc3s500e-fg320-5 svgp_top.ngc svgp_top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o svgp_top_map.ncd svgp_top.ngd svgp_top.pcf 
+par -w -intstyle ise -ol high -t 1 svgp_top_map.ncd svgp_top.ncd svgp_top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml svgp_top.twx svgp_top.ncd -o svgp_top.twr svgp_top.pcf -ucf constraints.ucf 
+bitgen -intstyle ise -f svgp_top.ut svgp_top.ncd 
+xst -intstyle ise -ifn "/home/student1/djmohame/Desktop/coe758/project2_paddles_ball/pong/svgp_top.xst" -ofn "/home/student1/djmohame/Desktop/coe758/project2_paddles_ball/pong/svgp_top.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc constraints.ucf -p xc3s500e-fg320-5 svgp_top.ngc svgp_top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o svgp_top_map.ncd svgp_top.ngd svgp_top.pcf 
+par -w -intstyle ise -ol high -t 1 svgp_top_map.ncd svgp_top.ncd svgp_top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml svgp_top.twx svgp_top.ncd -o svgp_top.twr svgp_top.pcf -ucf constraints.ucf 
+bitgen -intstyle ise -f svgp_top.ut svgp_top.ncd 
+xst -intstyle ise -ifn "/home/student1/djmohame/Desktop/coe758/project2_paddles_ball/pong/svgp_top.xst" -ofn "/home/student1/djmohame/Desktop/coe758/project2_paddles_ball/pong/svgp_top.syr" 
+xst -intstyle ise -ifn "/home/student1/djmohame/Desktop/coe758/project2_paddles_ball/pong/svgp_top.xst" -ofn "/home/student1/djmohame/Desktop/coe758/project2_paddles_ball/pong/svgp_top.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc constraints.ucf -p xc3s500e-fg320-5 svgp_top.ngc svgp_top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o svgp_top_map.ncd svgp_top.ngd svgp_top.pcf 
+par -w -intstyle ise -ol high -t 1 svgp_top_map.ncd svgp_top.ncd svgp_top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml svgp_top.twx svgp_top.ncd -o svgp_top.twr svgp_top.pcf -ucf constraints.ucf 
+bitgen -intstyle ise -f svgp_top.ut svgp_top.ncd 
+xst -intstyle ise -ifn "/home/student1/djmohame/Desktop/coe758/project2_paddles_ball/pong/svgp_top.xst" -ofn "/home/student1/djmohame/Desktop/coe758/project2_paddles_ball/pong/svgp_top.syr" 
+xst -intstyle ise -ifn "/home/student1/djmohame/Desktop/coe758/project2_paddles_ball/pong/svgp_top.xst" -ofn "/home/student1/djmohame/Desktop/coe758/project2_paddles_ball/pong/svgp_top.syr" 
+xst -intstyle ise -ifn "/home/student1/djmohame/Desktop/coe758/project2_paddles_ball/pong/svgp_top.xst" -ofn "/home/student1/djmohame/Desktop/coe758/project2_paddles_ball/pong/svgp_top.syr" 
+xst -intstyle ise -ifn "/home/student1/djmohame/Desktop/coe758/project2_paddles_ball/pong/svgp_top.xst" -ofn "/home/student1/djmohame/Desktop/coe758/project2_paddles_ball/pong/svgp_top.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc constraints.ucf -p xc3s500e-fg320-5 svgp_top.ngc svgp_top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o svgp_top_map.ncd svgp_top.ngd svgp_top.pcf 
+par -w -intstyle ise -ol high -t 1 svgp_top_map.ncd svgp_top.ncd svgp_top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml svgp_top.twx svgp_top.ncd -o svgp_top.twr svgp_top.pcf -ucf constraints.ucf 
+bitgen -intstyle ise -f svgp_top.ut svgp_top.ncd 
+xst -intstyle ise -ifn "/home/student1/djmohame/Desktop/coe758/project2_paddles_ball/pong/svgp_top.xst" -ofn "/home/student1/djmohame/Desktop/coe758/project2_paddles_ball/pong/svgp_top.syr" 
+xst -intstyle ise -ifn "/home/student1/djmohame/Desktop/coe758/project2_paddles_ball/pong/svgp_top.xst" -ofn "/home/student1/djmohame/Desktop/coe758/project2_paddles_ball/pong/svgp_top.syr" 
+xst -intstyle ise -ifn "/home/student1/djmohame/Desktop/coe758/project2_paddles_ball/pong/svgp_top.xst" -ofn "/home/student1/djmohame/Desktop/coe758/project2_paddles_ball/pong/svgp_top.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc constraints.ucf -p xc3s500e-fg320-5 svgp_top.ngc svgp_top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o svgp_top_map.ncd svgp_top.ngd svgp_top.pcf 
+par -w -intstyle ise -ol high -t 1 svgp_top_map.ncd svgp_top.ncd svgp_top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml svgp_top.twx svgp_top.ncd -o svgp_top.twr svgp_top.pcf -ucf constraints.ucf 
+bitgen -intstyle ise -f svgp_top.ut svgp_top.ncd 
+xst -intstyle ise -ifn "/home/student1/djmohame/Desktop/coe758/project2_paddles_ball/pong/svgp_top.xst" -ofn "/home/student1/djmohame/Desktop/coe758/project2_paddles_ball/pong/svgp_top.syr" 
+xst -intstyle ise -ifn "/home/student1/djmohame/Desktop/coe758/project2_paddles_ball/pong/svgp_top.xst" -ofn "/home/student1/djmohame/Desktop/coe758/project2_paddles_ball/pong/svgp_top.syr" 
+xst -intstyle ise -ifn "/home/student1/djmohame/Desktop/coe758/project2_paddles_ball/pong/svgp_top.xst" -ofn "/home/student1/djmohame/Desktop/coe758/project2_paddles_ball/pong/svgp_top.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc constraints.ucf -p xc3s500e-fg320-5 svgp_top.ngc svgp_top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o svgp_top_map.ncd svgp_top.ngd svgp_top.pcf 
+par -w -intstyle ise -ol high -t 1 svgp_top_map.ncd svgp_top.ncd svgp_top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml svgp_top.twx svgp_top.ncd -o svgp_top.twr svgp_top.pcf -ucf constraints.ucf 
+bitgen -intstyle ise -f svgp_top.ut svgp_top.ncd 
+xst -intstyle ise -ifn "/home/student1/djmohame/Desktop/coe758/project2_paddles_ball/pong/svgp_top.xst" -ofn "/home/student1/djmohame/Desktop/coe758/project2_paddles_ball/pong/svgp_top.syr" 
+xst -intstyle ise -ifn "/home/student1/djmohame/Desktop/coe758/project2_paddles_ball/pong/svgp_top.xst" -ofn "/home/student1/djmohame/Desktop/coe758/project2_paddles_ball/pong/svgp_top.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc constraints.ucf -p xc3s500e-fg320-5 svgp_top.ngc svgp_top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o svgp_top_map.ncd svgp_top.ngd svgp_top.pcf 
+par -w -intstyle ise -ol high -t 1 svgp_top_map.ncd svgp_top.ncd svgp_top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml svgp_top.twx svgp_top.ncd -o svgp_top.twr svgp_top.pcf -ucf constraints.ucf 
+bitgen -intstyle ise -f svgp_top.ut svgp_top.ncd 
+xst -intstyle ise -ifn "/home/student1/djmohame/Desktop/coe758/project2_paddles_ball/pong/svgp_top.xst" -ofn "/home/student1/djmohame/Desktop/coe758/project2_paddles_ball/pong/svgp_top.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc constraints.ucf -p xc3s500e-fg320-5 svgp_top.ngc svgp_top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o svgp_top_map.ncd svgp_top.ngd svgp_top.pcf 
+par -w -intstyle ise -ol high -t 1 svgp_top_map.ncd svgp_top.ncd svgp_top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml svgp_top.twx svgp_top.ncd -o svgp_top.twr svgp_top.pcf -ucf constraints.ucf 
+bitgen -intstyle ise -f svgp_top.ut svgp_top.ncd 
+xst -intstyle ise -ifn "/home/student1/lvalitut/Desktop/coe758/pong/svgp_top.xst" -ofn "/home/student1/lvalitut/Desktop/coe758/pong/svgp_top.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc constraints.ucf -p xc3s500e-fg320-5 svgp_top.ngc svgp_top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o svgp_top_map.ncd svgp_top.ngd svgp_top.pcf 
+par -w -intstyle ise -ol high -t 1 svgp_top_map.ncd svgp_top.ncd svgp_top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml svgp_top.twx svgp_top.ncd -o svgp_top.twr svgp_top.pcf -ucf constraints.ucf 
+bitgen -intstyle ise -f svgp_top.ut svgp_top.ncd 
+xst -intstyle ise -ifn "/home/student1/lvalitut/Desktop/coe758/pong/svgp_top.xst" -ofn "/home/student1/lvalitut/Desktop/coe758/pong/svgp_top.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc constraints.ucf -p xc3s500e-fg320-5 svgp_top.ngc svgp_top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o svgp_top_map.ncd svgp_top.ngd svgp_top.pcf 
+par -w -intstyle ise -ol high -t 1 svgp_top_map.ncd svgp_top.ncd svgp_top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml svgp_top.twx svgp_top.ncd -o svgp_top.twr svgp_top.pcf -ucf constraints.ucf 
+bitgen -intstyle ise -f svgp_top.ut svgp_top.ncd 
+xst -intstyle ise -ifn "/home/student1/lvalitut/Desktop/coe758/pong/svgp_top.xst" -ofn "/home/student1/lvalitut/Desktop/coe758/pong/svgp_top.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc constraints.ucf -p xc3s500e-fg320-5 svgp_top.ngc svgp_top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o svgp_top_map.ncd svgp_top.ngd svgp_top.pcf 
+xst -intstyle ise -ifn "/home/student1/lvalitut/Desktop/coe758/pong/svgp_top.xst" -ofn "/home/student1/lvalitut/Desktop/coe758/pong/svgp_top.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc constraints.ucf -p xc3s500e-fg320-5 svgp_top.ngc svgp_top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o svgp_top_map.ncd svgp_top.ngd svgp_top.pcf 
+par -w -intstyle ise -ol high -t 1 svgp_top_map.ncd svgp_top.ncd svgp_top.pcf 
+xst -intstyle ise -ifn "/home/student1/lvalitut/Desktop/coe758/pong/svgp_top.xst" -ofn "/home/student1/lvalitut/Desktop/coe758/pong/svgp_top.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc constraints.ucf -p xc3s500e-fg320-5 svgp_top.ngc svgp_top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o svgp_top_map.ncd svgp_top.ngd svgp_top.pcf 
+par -w -intstyle ise -ol high -t 1 svgp_top_map.ncd svgp_top.ncd svgp_top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml svgp_top.twx svgp_top.ncd -o svgp_top.twr svgp_top.pcf -ucf constraints.ucf 
+bitgen -intstyle ise -f svgp_top.ut svgp_top.ncd 
+xst -intstyle ise -ifn "/home/student1/lvalitut/Desktop/coe758/pong/svgp_top.xst" -ofn "/home/student1/lvalitut/Desktop/coe758/pong/svgp_top.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc constraints.ucf -p xc3s500e-fg320-5 svgp_top.ngc svgp_top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o svgp_top_map.ncd svgp_top.ngd svgp_top.pcf 
+par -w -intstyle ise -ol high -t 1 svgp_top_map.ncd svgp_top.ncd svgp_top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml svgp_top.twx svgp_top.ncd -o svgp_top.twr svgp_top.pcf -ucf constraints.ucf 
+bitgen -intstyle ise -f svgp_top.ut svgp_top.ncd 
+xst -intstyle ise -ifn "/home/student1/lvalitut/Desktop/coe758/pong/svgp_top.xst" -ofn "/home/student1/lvalitut/Desktop/coe758/pong/svgp_top.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc constraints.ucf -p xc3s500e-fg320-5 svgp_top.ngc svgp_top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o svgp_top_map.ncd svgp_top.ngd svgp_top.pcf 
+par -w -intstyle ise -ol high -t 1 svgp_top_map.ncd svgp_top.ncd svgp_top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml svgp_top.twx svgp_top.ncd -o svgp_top.twr svgp_top.pcf -ucf constraints.ucf 
+bitgen -intstyle ise -f svgp_top.ut svgp_top.ncd 
+xst -intstyle ise -ifn "/home/student1/lvalitut/Desktop/coe758/pong/svgp_top.xst" -ofn "/home/student1/lvalitut/Desktop/coe758/pong/svgp_top.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc constraints.ucf -p xc3s500e-fg320-5 svgp_top.ngc svgp_top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o svgp_top_map.ncd svgp_top.ngd svgp_top.pcf 
+par -w -intstyle ise -ol high -t 1 svgp_top_map.ncd svgp_top.ncd svgp_top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml svgp_top.twx svgp_top.ncd -o svgp_top.twr svgp_top.pcf -ucf constraints.ucf 
+bitgen -intstyle ise -f svgp_top.ut svgp_top.ncd 
+xst -intstyle ise -ifn "/home/student1/lvalitut/Desktop/coe758/pong/svgp_top.xst" -ofn "/home/student1/lvalitut/Desktop/coe758/pong/svgp_top.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc constraints.ucf -p xc3s500e-fg320-5 svgp_top.ngc svgp_top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o svgp_top_map.ncd svgp_top.ngd svgp_top.pcf 
+par -w -intstyle ise -ol high -t 1 svgp_top_map.ncd svgp_top.ncd svgp_top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml svgp_top.twx svgp_top.ncd -o svgp_top.twr svgp_top.pcf -ucf constraints.ucf 
+bitgen -intstyle ise -f svgp_top.ut svgp_top.ncd 
+xst -intstyle ise -ifn "/home/student1/lvalitut/Desktop/coe758/pong/svgp_top.xst" -ofn "/home/student1/lvalitut/Desktop/coe758/pong/svgp_top.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc constraints.ucf -p xc3s500e-fg320-5 svgp_top.ngc svgp_top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o svgp_top_map.ncd svgp_top.ngd svgp_top.pcf 
+par -w -intstyle ise -ol high -t 1 svgp_top_map.ncd svgp_top.ncd svgp_top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml svgp_top.twx svgp_top.ncd -o svgp_top.twr svgp_top.pcf -ucf constraints.ucf 
+bitgen -intstyle ise -f svgp_top.ut svgp_top.ncd 
+xst -intstyle ise -ifn "/home/student1/lvalitut/Desktop/coe758/pong/svgp_top.xst" -ofn "/home/student1/lvalitut/Desktop/coe758/pong/svgp_top.syr" 
+xst -intstyle ise -ifn "/home/student1/lvalitut/Desktop/coe758/pong/svgp_top.xst" -ofn "/home/student1/lvalitut/Desktop/coe758/pong/svgp_top.syr" 
+xst -intstyle ise -ifn "/home/student1/lvalitut/Desktop/coe758/pong/svgp_top.xst" -ofn "/home/student1/lvalitut/Desktop/coe758/pong/svgp_top.syr" 
+xst -intstyle ise -ifn "/home/student1/lvalitut/Desktop/coe758/pong/svgp_top.xst" -ofn "/home/student1/lvalitut/Desktop/coe758/pong/svgp_top.syr" 
+xst -intstyle ise -ifn "/home/student1/lvalitut/Desktop/coe758/pong/svgp_top.xst" -ofn "/home/student1/lvalitut/Desktop/coe758/pong/svgp_top.syr" 
+xst -intstyle ise -ifn "/home/student1/lvalitut/Desktop/coe758/pong/svgp_top.xst" -ofn "/home/student1/lvalitut/Desktop/coe758/pong/svgp_top.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc constraints.ucf -p xc3s500e-fg320-5 svgp_top.ngc svgp_top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o svgp_top_map.ncd svgp_top.ngd svgp_top.pcf 
+par -w -intstyle ise -ol high -t 1 svgp_top_map.ncd svgp_top.ncd svgp_top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml svgp_top.twx svgp_top.ncd -o svgp_top.twr svgp_top.pcf -ucf constraints.ucf 
+bitgen -intstyle ise -f svgp_top.ut svgp_top.ncd 
+xst -intstyle ise -ifn "/home/student1/lvalitut/Desktop/coe758/pong/svgp_top.xst" -ofn "/home/student1/lvalitut/Desktop/coe758/pong/svgp_top.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc constraints.ucf -p xc3s500e-fg320-5 svgp_top.ngc svgp_top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o svgp_top_map.ncd svgp_top.ngd svgp_top.pcf 
+par -w -intstyle ise -ol high -t 1 svgp_top_map.ncd svgp_top.ncd svgp_top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml svgp_top.twx svgp_top.ncd -o svgp_top.twr svgp_top.pcf -ucf constraints.ucf 
+bitgen -intstyle ise -f svgp_top.ut svgp_top.ncd 
+xst -intstyle ise -ifn "/home/student1/lvalitut/Desktop/coe758/pong/svgp_top.xst" -ofn "/home/student1/lvalitut/Desktop/coe758/pong/svgp_top.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc constraints.ucf -p xc3s500e-fg320-5 svgp_top.ngc svgp_top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o svgp_top_map.ncd svgp_top.ngd svgp_top.pcf 
+par -w -intstyle ise -ol high -t 1 svgp_top_map.ncd svgp_top.ncd svgp_top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml svgp_top.twx svgp_top.ncd -o svgp_top.twr svgp_top.pcf -ucf constraints.ucf 
+bitgen -intstyle ise -f svgp_top.ut svgp_top.ncd 
+xst -intstyle ise -ifn "/home/student1/lvalitut/Desktop/coe758/pong/svgp_top.xst" -ofn "/home/student1/lvalitut/Desktop/coe758/pong/svgp_top.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc constraints.ucf -p xc3s500e-fg320-5 svgp_top.ngc svgp_top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o svgp_top_map.ncd svgp_top.ngd svgp_top.pcf 
+par -w -intstyle ise -ol high -t 1 svgp_top_map.ncd svgp_top.ncd svgp_top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml svgp_top.twx svgp_top.ncd -o svgp_top.twr svgp_top.pcf -ucf constraints.ucf 
+bitgen -intstyle ise -f svgp_top.ut svgp_top.ncd 
+xst -intstyle ise -ifn "/home/student1/lvalitut/Desktop/coe758/pong/svgp_top.xst" -ofn "/home/student1/lvalitut/Desktop/coe758/pong/svgp_top.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc constraints.ucf -p xc3s500e-fg320-5 svgp_top.ngc svgp_top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o svgp_top_map.ncd svgp_top.ngd svgp_top.pcf 
+par -w -intstyle ise -ol high -t 1 svgp_top_map.ncd svgp_top.ncd svgp_top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml svgp_top.twx svgp_top.ncd -o svgp_top.twr svgp_top.pcf -ucf constraints.ucf 
+bitgen -intstyle ise -f svgp_top.ut svgp_top.ncd 
+xst -intstyle ise -ifn "/home/student1/lvalitut/Desktop/coe758/pong/svgp_top.xst" -ofn "/home/student1/lvalitut/Desktop/coe758/pong/svgp_top.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc constraints.ucf -p xc3s500e-fg320-5 svgp_top.ngc svgp_top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o svgp_top_map.ncd svgp_top.ngd svgp_top.pcf 
+par -w -intstyle ise -ol high -t 1 svgp_top_map.ncd svgp_top.ncd svgp_top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml svgp_top.twx svgp_top.ncd -o svgp_top.twr svgp_top.pcf -ucf constraints.ucf 
+bitgen -intstyle ise -f svgp_top.ut svgp_top.ncd 
+xst -intstyle ise -ifn "/home/student1/lvalitut/Desktop/coe758/pong/svgp_top.xst" -ofn "/home/student1/lvalitut/Desktop/coe758/pong/svgp_top.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc constraints.ucf -p xc3s500e-fg320-5 svgp_top.ngc svgp_top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o svgp_top_map.ncd svgp_top.ngd svgp_top.pcf 
+par -w -intstyle ise -ol high -t 1 svgp_top_map.ncd svgp_top.ncd svgp_top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml svgp_top.twx svgp_top.ncd -o svgp_top.twr svgp_top.pcf -ucf constraints.ucf 
+bitgen -intstyle ise -f svgp_top.ut svgp_top.ncd 
+xst -intstyle ise -ifn "/home/student1/lvalitut/Desktop/coe758/pong/svgp_top.xst" -ofn "/home/student1/lvalitut/Desktop/coe758/pong/svgp_top.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc constraints.ucf -p xc3s500e-fg320-5 svgp_top.ngc svgp_top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o svgp_top_map.ncd svgp_top.ngd svgp_top.pcf 
+par -w -intstyle ise -ol high -t 1 svgp_top_map.ncd svgp_top.ncd svgp_top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml svgp_top.twx svgp_top.ncd -o svgp_top.twr svgp_top.pcf -ucf constraints.ucf 
+bitgen -intstyle ise -f svgp_top.ut svgp_top.ncd 
+xst -intstyle ise -ifn "/home/student1/lvalitut/Desktop/coe758/backup project2/untitled folder/pong/svgp_top.xst" -ofn "/home/student1/lvalitut/Desktop/coe758/backup project2/untitled folder/pong/svgp_top.syr" 
+xst -intstyle ise -ifn "/home/student1/lvalitut/Desktop/coe758/backup project2/untitled folder/pong/svgp_top.xst" -ofn "/home/student1/lvalitut/Desktop/coe758/backup project2/untitled folder/pong/svgp_top.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc constraints.ucf -p xc3s500e-fg320-5 "svgp_top.ngc" svgp_top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o svgp_top_map.ncd svgp_top.ngd svgp_top.pcf 
+par -w -intstyle ise -ol high -t 1 svgp_top_map.ncd svgp_top.ncd svgp_top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml svgp_top.twx svgp_top.ncd -o svgp_top.twr svgp_top.pcf -ucf constraints.ucf 
+bitgen -intstyle ise -f svgp_top.ut svgp_top.ncd 
+xst -intstyle ise -ifn "/home/student1/lvalitut/Desktop/coe758/backup project2/untitled folder/pong/svgp_top.xst" -ofn "/home/student1/lvalitut/Desktop/coe758/backup project2/untitled folder/pong/svgp_top.syr" 
+xst -intstyle ise -ifn "/home/student1/lvalitut/Desktop/coe758/backup project2/untitled folder/pong/svgp_top.xst" -ofn "/home/student1/lvalitut/Desktop/coe758/backup project2/untitled folder/pong/svgp_top.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc constraints.ucf -p xc3s500e-fg320-5 "svgp_top.ngc" svgp_top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o svgp_top_map.ncd svgp_top.ngd svgp_top.pcf 
+par -w -intstyle ise -ol high -t 1 svgp_top_map.ncd svgp_top.ncd svgp_top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml svgp_top.twx svgp_top.ncd -o svgp_top.twr svgp_top.pcf -ucf constraints.ucf 
+bitgen -intstyle ise -f svgp_top.ut svgp_top.ncd 
+xst -intstyle ise -ifn "/home/student1/lvalitut/Desktop/coe758/backup project2/untitled folder/pong/svgp_top.xst" -ofn "/home/student1/lvalitut/Desktop/coe758/backup project2/untitled folder/pong/svgp_top.syr" 
+xst -intstyle ise -ifn "/home/student1/lvalitut/Desktop/coe758/backup project2/untitled folder/pong/svgp_top.xst" -ofn "/home/student1/lvalitut/Desktop/coe758/backup project2/untitled folder/pong/svgp_top.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc constraints.ucf -p xc3s500e-fg320-5 "svgp_top.ngc" svgp_top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o svgp_top_map.ncd svgp_top.ngd svgp_top.pcf 
+par -w -intstyle ise -ol high -t 1 svgp_top_map.ncd svgp_top.ncd svgp_top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml svgp_top.twx svgp_top.ncd -o svgp_top.twr svgp_top.pcf -ucf constraints.ucf 
+bitgen -intstyle ise -f svgp_top.ut svgp_top.ncd 
+xst -intstyle ise -ifn "/home/student1/lvalitut/Desktop/coe758/backup project2/untitled folder/pong/svgp_top.xst" -ofn "/home/student1/lvalitut/Desktop/coe758/backup project2/untitled folder/pong/svgp_top.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc constraints.ucf -p xc3s500e-fg320-5 "svgp_top.ngc" svgp_top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o svgp_top_map.ncd svgp_top.ngd svgp_top.pcf 
+par -w -intstyle ise -ol high -t 1 svgp_top_map.ncd svgp_top.ncd svgp_top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml svgp_top.twx svgp_top.ncd -o svgp_top.twr svgp_top.pcf -ucf constraints.ucf 
+bitgen -intstyle ise -f svgp_top.ut svgp_top.ncd 
+xst -intstyle ise -ifn "/home/student1/lvalitut/Desktop/coe758/backup project2/untitled folder/pong/svgp_top.xst" -ofn "/home/student1/lvalitut/Desktop/coe758/backup project2/untitled folder/pong/svgp_top.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc constraints.ucf -p xc3s500e-fg320-5 "svgp_top.ngc" svgp_top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o svgp_top_map.ncd svgp_top.ngd svgp_top.pcf 
+par -w -intstyle ise -ol high -t 1 svgp_top_map.ncd svgp_top.ncd svgp_top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml svgp_top.twx svgp_top.ncd -o svgp_top.twr svgp_top.pcf -ucf constraints.ucf 
+bitgen -intstyle ise -f svgp_top.ut svgp_top.ncd 
+xst -intstyle ise -ifn "/home/student1/lvalitut/Desktop/coe758/backup project2/untitled folder/pong/svgp_top.xst" -ofn "/home/student1/lvalitut/Desktop/coe758/backup project2/untitled folder/pong/svgp_top.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc constraints.ucf -p xc3s500e-fg320-5 "svgp_top.ngc" svgp_top.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o svgp_top_map.ncd svgp_top.ngd svgp_top.pcf 
+par -w -intstyle ise -ol high -t 1 svgp_top_map.ncd svgp_top.ncd svgp_top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml svgp_top.twx svgp_top.ncd -o svgp_top.twr svgp_top.pcf -ucf constraints.ucf 
+bitgen -intstyle ise -f svgp_top.ut svgp_top.ncd 

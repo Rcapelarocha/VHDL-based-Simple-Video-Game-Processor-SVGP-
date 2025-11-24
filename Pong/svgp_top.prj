@@ -1,0 +1,6 @@
+vhdl work "ipcore_dir/icon.vhd"
+vhdl work "vga_core.vhd"
+vhdl work "renderer.vhd"
+vhdl work "ipcore_dir/ila.vhd"
+vhdl work "game_engine.vhd"
+vhdl work "svgp_top.vhd"
